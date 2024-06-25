@@ -1,0 +1,29 @@
+E:/altera/13.1/uni/DSD/Midterm/q7/VectorProcessor.v {1 {vlog -work work E:/altera/13.1/uni/DSD/Midterm/q7/VectorProcessor.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module VectorProcessor
+
+Top level modules:
+	VectorProcessor
+
+} {} {}} E:/altera/13.1/uni/DSD/Midterm/q7/VectorProcessor_tb.v {1 {vlog -work work E:/altera/13.1/uni/DSD/Midterm/q7/VectorProcessor_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module VectorProcessor_tb
+
+Top level modules:
+	VectorProcessor_tb
+
+} {} {}} E:/altera/13.1/uni/DSD/Midterm/q7/RegisterFile.v {1 {vlog -work work E:/altera/13.1/uni/DSD/Midterm/q7/RegisterFile.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}} E:/altera/13.1/uni/DSD/Midterm/q7/ALU.v {1 {vlog -work work E:/altera/13.1/uni/DSD/Midterm/q7/ALU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}}

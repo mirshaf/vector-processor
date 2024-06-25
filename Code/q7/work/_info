@@ -1,0 +1,105 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\altera\13.1\uni\DSD\HW4
+vALU
+Z1 !s100 ]@A6mcLP8CoT6LfHgVLDh0
+Z2 I=ZVdH0m53LGLm[V<SO0?e0
+Z3 VDI6^BCZB]JI:0_:T5S5CN1
+Z4 dE:\altera\13.1\uni\DSD\Midterm\q7
+Z5 w1719333089
+Z6 8E:/altera/13.1/uni/DSD/Midterm/q7/ALU.v
+Z7 FE:/altera/13.1/uni/DSD/Midterm/q7/ALU.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|E:/altera/13.1/uni/DSD/Midterm/q7/ALU.v|
+Z10 o-work work -O0
+Z11 n@a@l@u
+Z12 !s108 1719343564.899000
+Z13 !s107 E:/altera/13.1/uni/DSD/Midterm/q7/ALU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMemory
+Z14 !s100 7VOAFCa_O=A:zAzbISNj03
+Z15 INY935G7mYH9W=Hb2_j2in1
+Z16 V2R1EiB8O4YV?DoWdDza4C3
+R4
+Z17 w1719335993
+Z18 8E:/altera/13.1/uni/DSD/Midterm/q7/Memory.v
+Z19 FE:/altera/13.1/uni/DSD/Midterm/q7/Memory.v
+L0 1
+R8
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|E:/altera/13.1/uni/DSD/Midterm/q7/Memory.v|
+R10
+Z21 n@memory
+Z22 !s108 1719343564.938000
+Z23 !s107 E:/altera/13.1/uni/DSD/Midterm/q7/Memory.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRegisterFile
+Z24 !s100 [lLER]9RD7mZ;lN]AZRaD2
+Z25 INI6bPf`g3TG0=aJa7^^i32
+Z26 VaFQ[N<d@DbX<b0Ii]b08_0
+R4
+Z27 w1719333087
+Z28 8E:/altera/13.1/uni/DSD/Midterm/q7/RegisterFile.v
+Z29 FE:/altera/13.1/uni/DSD/Midterm/q7/RegisterFile.v
+L0 1
+R8
+r1
+31
+Z30 !s90 -reportprogress|300|-work|work|E:/altera/13.1/uni/DSD/Midterm/q7/RegisterFile.v|
+R10
+Z31 n@register@file
+Z32 !s108 1719343564.858000
+Z33 !s107 E:/altera/13.1/uni/DSD/Midterm/q7/RegisterFile.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vVectorProcessor
+Z34 !s100 8Jo6`z01U`FUhb6C4@=VI3
+Z35 Ie[S`mgOZlCTUP2BfA5M4F0
+Z36 VGo:EiI2R:IK2:R>lHm4>_1
+R4
+Z37 w1719333090
+Z38 8E:/altera/13.1/uni/DSD/Midterm/q7/VectorProcessor.v
+Z39 FE:/altera/13.1/uni/DSD/Midterm/q7/VectorProcessor.v
+L0 1
+R8
+r1
+31
+Z40 !s90 -reportprogress|300|-work|work|E:/altera/13.1/uni/DSD/Midterm/q7/VectorProcessor.v|
+R10
+Z41 n@vector@processor
+!i10b 1
+!s85 0
+Z42 !s108 1719343564.985000
+Z43 !s107 E:/altera/13.1/uni/DSD/Midterm/q7/VectorProcessor.v|
+!s101 -O0
+vVectorProcessor_tb
+!i10b 1
+!s100 Q4[JK^[iS2AYU::lQng0f1
+IdZ5lXICX6;Ac75MUOJPFF3
+Z44 VP71`Kn>1hmUdczJSoBcgM1
+R4
+w1719343560
+Z45 8E:/altera/13.1/uni/DSD/Midterm/q7/VectorProcessor_tb.v
+Z46 FE:/altera/13.1/uni/DSD/Midterm/q7/VectorProcessor_tb.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1719343565.026000
+!s107 E:/altera/13.1/uni/DSD/Midterm/q7/VectorProcessor_tb.v|
+Z47 !s90 -reportprogress|300|-work|work|E:/altera/13.1/uni/DSD/Midterm/q7/VectorProcessor_tb.v|
+!s101 -O0
+R10
+Z48 n@vector@processor_tb
