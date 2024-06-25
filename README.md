@@ -1,6 +1,6 @@
-# vector-processor
+# Vector Processor
 
-A Verilog project for the Digital Systems Design course, Spring 2024.
+The hardware description of a simple vector processor. A Verilog project for the Digital Systems Design course, Spring 2024.
 
 
 ## Tools
@@ -9,6 +9,11 @@ A Verilog project for the Digital Systems Design course, Spring 2024.
 
 
 ## Implementation Details
+
+This project aims to design a vector processor capable of processing multiple words simultanously. The difference of this approach, as opposed to normal processors, can be seen below:
+
+![Screenshot 2024-05-17 114821 (1)](https://github.com/mirshaf/vector-processor/assets/119650737/70540880-04c6-444c-9572-6d3186df6aa7)
+
 
 You can find a detailed explanation of how I implemented this project in the Documents directory.
 
