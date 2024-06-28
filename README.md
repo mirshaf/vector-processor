@@ -15,11 +15,17 @@ This project aims to design a vector processor capable of processing multiple wo
 ![Screenshot 2024-05-17 114821 (1)](https://github.com/mirshaf/vector-processor/assets/119650737/70540880-04c6-444c-9572-6d3186df6aa7)
 
 
-In this design, a modular approach was taken by breaking the Vector Processor into three main modules: a register file, an ALU, and a memory. The Vector processor was, then, described by putting these modules together. A thorough and detailed explanation of the implementation of this project can be found in the *Documents* directory.
+In this design, a modular approach was taken by breaking the Vector Processor into three main modules: a register file, an ALU, and a memory. The Vector processor was, then, described by putting these modules together. 
+
+A thorough and detailed explanation of the implementation of this project can be found in the *Documents* directory.
 
 ## How to Run
 
-The simulation of the hardware description provided in this project can be done with ModelSim: an enviroment for simulation of hardware description languages such as Verilog, which was used in this project. The module *code -> q7 -> VectorProcessor.v* has been specifically designed to instantiate the vector processor and run many tests on it. All tests will be run automatically by pressing the *simulate* button in ModelSim and choosing the aforementioned module in the window that pops up. The tests have been designed to be thorough and cover many cases, such as everyday use case scenarios, and also edge cases. They are formatted in three classes: 1.Normal tests; 2.Edge cases, such as very large or very small numbers; and 3.Randomly generated tests.
+The simulation of the hardware description provided in this project can be done with ModelSim: an enviroment for simulation of hardware description languages such as Verilog, which was used in this project. 
+
+The module *code -> q7 -> VectorProcessor.v* has been specifically designed to instantiate the vector processor and run many tests on it. All tests will be run automatically by pressing the *simulate* button in ModelSim and choosing the aforementioned module in the window that pops up. 
+
+The tests have been designed to be thorough and cover many cases, such as everyday use case scenarios, and also edge cases. They are formatted in three classes: 1.Normal tests; 2.Edge cases, such as very large or very small numbers; and 3.Randomly generated tests.
 
 ## Results
 
@@ -33,7 +39,7 @@ After a successful simulation run under the default testbench, ModelSim should d
 
 ![Screenshot (4476)](https://github.com/mirshaf/vector-processor/assets/119650737/401cb42c-22e5-4887-9c1d-c469a8bc440f)
 
-The report in *Documents->Extra-Report* delves into the details of this simulation, what it means, what are the expected results, and how the functionality of the described vector processor is practically proven by its testbench.
+The report in *Documents->Extra-Report* delves into the details of this simulation, what it means, how to read its results and why they make sense, and how the functionality of the described vector processor is practically proven by its testbench.
 
 ## Author
 - [Me](https://github.com/mirshaf)
